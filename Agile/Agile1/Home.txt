@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width,initial scale=1.0">
+        <title>home</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="heading">
+            <h1>Senkadagala Washing Plant[Pvt] Ltd.</h1>
+
+      <nav>
+        
+            <a href="orders.php">ORDER</a> <br><br>
+            <a href="bill.php">BILL</a> <br><br>
+            <a href="customerdetails.php">CUSTOMER DETAILS</a> <br><br>
+            <a href="report.php">REPORT</a> <br>
+        
+      </nav>
+    </div>
+    <br><br>
+
+    <div id="image">
+        <img src="https://unblast.com/wp-content/uploads/2021/08/Laundry-Vector-Illustration.jpg" width="40%" alt="There ia an error in playing this image." title="This image shows laundry culture.">
+        <img src="https://static.vecteezy.com/system/resources/previews/004/903/064/original/laundromat-cartoon-illustration-vector.jpg" width="55%" alt="There ia an error in playing this image." title="This image shows laundry culture.">
+    </div>
+
+    <div id="paragraph">
+        <p>
+            Company: Senkadagala Washing Plant[Pvt] Ltd.<br>
+            Founder: Anura Ekanayaka<br>
+            Location: No:43A, Arangala, Nattarampotha, Kandy.<br>
+            Phone: 071 34 94 674, 081 24 24 304<br>
+        </p>
+    </div>
+       
+    </body>
+</html>
